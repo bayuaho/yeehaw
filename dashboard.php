@@ -9,4 +9,5 @@ if ($_SESSION["isloggin"] != "login") {
 
 
 <h1 style="text-align:center">Halaman Dashboard</h1>
+<h3>wandahoyyy</h3>
 <a href="logout.php">Logout</a>
